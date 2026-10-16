@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rf-atelie.vercel.app/sitemap.xml
