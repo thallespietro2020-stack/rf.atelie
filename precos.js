@@ -15,7 +15,7 @@
    ========================================================= */
 
 window.PRECOS = {
-  "Vestido Verde-Oliva": "",
-  "Bolsa Alça Circular": "",
-  "Vestido de Franjas": "",
+  "Vestido Verde-Oliva": "900,00",
+  "Bolsa Alça Circular": "200,00",
+  "Vestido de Franjas": "1200,00",
 };
